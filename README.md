@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <h3>👋 ¡Hola! Bienvenido a mi perfil de GitHub</h3>
+  <h3> Bienvenido a mi GitHub :-) </h3>
   <p>
     <b>Analista Programador</b> enfocado en el desarrollo de software <b>Backend y Full Stack</b>, automatización de procesos y despliegue de soluciones tecnológicas eficientes. Combino experiencia práctica en <b>Infraestructura TI</b> con ingeniería de software para crear aplicaciones robustas, escalables y orientadas a resolver problemas reales.
   </p>
